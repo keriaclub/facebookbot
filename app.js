@@ -413,7 +413,7 @@ function receivedAccountLink(event) {
  * If users came here through testdrive, they need to configure the server URL
  * in default.json before they can access local resources likes images/videos.
  */
-function requiresServerURL(next, [recipientId, ...args]) {
+function requiresServerURL(next, [recipientId]) {
   if (SERVER_URL === "to_be_set_manually") {
     var messageData = {
       recipient: {
