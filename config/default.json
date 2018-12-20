@@ -2,5 +2,5 @@
     "appSecret": "c15b0d378276c871c56377a03fe38730",
     "pageAccessToken": "EAAFQ48ZAs0tYBAL1BVIm1EWdRvxdB5aaU5ROgtdc1cyHYglYlA5U4O4HQieJMj3CIHpLBZA17oGx8uVqMVnUjZAJEK1SO4JZBy1ORBDMkX1LEJ9xpkSFKjIJ4eF6quS4dyF5EeorC4bRRHD0KYBZADBv8bT8R929lRDRCE69eWsZBNfnsJQNR1",
     "validationToken": "vici",
-    "serverURL": "to_be_set_manually"
+    "serverURL": "https://new-facebook-bot.appspot.com/"
 }
