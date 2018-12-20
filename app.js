@@ -1,20 +1,3 @@
-Skip to content
- 
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- @keriaclub Sign out
-167
-1,391 2,285 fbsamples/messenger-platform-samples
- Code  Issues 1  Pull requests 13  Projects 0  Insights
-messenger-platform-samples/quick-start/app.js
-14498bd  on Nov 17, 2017
-@amuramoto amuramoto Added copyright notice
-     
-85 lines (65 sloc)  2.39 KB
 /**
  * Copyright 2017-present, Facebook, Inc. All rights reserved.
  *
@@ -99,16 +82,3 @@ app.get('/webhook', (req, res) => {
     }
   }
 });
-© 2018 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Press h to open a hovercard with more details.
